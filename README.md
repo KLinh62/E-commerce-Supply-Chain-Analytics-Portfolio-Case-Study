@@ -1,7 +1,6 @@
 # E-commerce Fulfillment, Inventory & Logistics Optimization Dashboard
 
-This repository presents a full-stack supply chain analytics case study using an e-commerce dataset. The project is broken down into five mini-projects to turn transactional data into insights that drive smarter inventory, logistics, and procurement decisions.
-reflect real business challenges across demand planning, inventory optimization, logistics, procurement, and returns.
+This repository presents a supply chain analytics case study using an e-commerce dataset. The project is broken down into five mini-projects to turn transactional data into insights that drive smarter inventory, logistics, and procurement decisions.
 
 **Dataset**: Online Sales Dataset (Kaggle)
 **Tools**: SQL (PostgreSQL/MySQL), Python (pandas, seaborn), Power BI
